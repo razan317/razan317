@@ -1,4 +1,4 @@
-👋 Hi, I’m @razan317
+👋 Hi, I’m Razan Rezeq
 👀 I’m interested in web development, mobile app development, and exploring AI
 🌱 I’m currently learning JavaScript and problem-solving techniques on LeetCode
 💞️ I’m looking to collaborate on open-source projects that can make an impact
