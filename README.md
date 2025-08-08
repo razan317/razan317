@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Razan</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Web developer</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
 
